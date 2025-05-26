@@ -1,0 +1,9 @@
+tensorflow
+matplotlib
+librosa
+pandas
+numpy
+scikit-learn
+opencv-python
+seaborn
+tqdm
